@@ -11,4 +11,4 @@ The bell needs to be connented to the parallel port of the computer throught an 
 
 REMARKS
 
-The program was make with Borland Delphi 6 for Microsoft Windows. It was running on Windows NT Server. 
+The program was made with Borland Delphi 6 for Microsoft Windows. It was running on Windows NT Server. 
