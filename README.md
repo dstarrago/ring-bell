@@ -7,8 +7,12 @@ When I was a student in the school of computer science, back in 1997, there was 
 
 HOW IT WORKED
 
-The bell needed to be connected to the parallel port of the computer through an electric relay or other power device. The program ran as a Windows NT service. A small icon appeared in the trybar identifying the program. You clicked the icon to get a form where you could set a list of days, hours and minutes when the bell should ring and defining the duration of the ring. In order for the bell to ring, the parallel port was set to 0xFF. The bell then stopped ringing when a 0x00 value was sent to the port.  
+The bell needed to be connected to the parallel port of the computer through an electric relay or other power device. The program ran as a Windows NT service. A small icon appeared in the system tray bar identifying the program. You clicked the icon to get a form where you could set a list of days, hours and minutes when the bell should ring and defining the duration of the ring. In order for the bell to ring, the parallel port was set to 0xFF. The bell then stopped ringing when a 0x00 value was sent to the port.  
 
 REMARKS
 
 The program was made using Borland Delphi 6 for Microsoft Windows. It was running on a Windows NT Server. 
+
+ACKNOWLEDGEMENT
+
+The component for controlling the system try icon was developed by Erik Sperling Johansen.
