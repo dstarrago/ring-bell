@@ -1,5 +1,5 @@
 # ring-bell
-Rings the school bell at scheduled times
+Rings the school bell at scheduled times: application to control, schedule and programmatically ring the school bell.
 
 ORIGEN
 
